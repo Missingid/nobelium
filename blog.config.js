@@ -1,8 +1,8 @@
 const BLOG = {
-  title: '现在还是毛坯房',
-  author: 'Missing',
-  email: 'missing000313@gmail.com',
-  link: 'https://missingid.vercel.app',
+  title: '',
+  author: '',
+  email: '',
+  link: '',
   description: '欢迎来到我的博客.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
